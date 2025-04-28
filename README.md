@@ -17,7 +17,7 @@ Each project inside this repository is created to reinforce concepts and build r
 
 | # | Project | Description | Link |
 |:-:|:--------|:------------|:-----|
-| 1 | [Single Page CV](./single-page-cv/) | A simple single-page CV project using HTML and external CSS. | [View](./single-page-cv/) |
+| 1 | [Single Page CV](https://roadmap.sh/projects/single-page-cv) | A simple single-page CV project using HTML and external CSS. | [View](./single-page-cv/) |
 
 *More projects coming soon... stay tuned!*
 

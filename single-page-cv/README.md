@@ -38,7 +38,7 @@ This project is part of my learning journey to practice the basic structure of a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mariocosta-ao/frontend-learning-projects.git
+   git clone https://github.com/mariocosta-ao/Frontend-Learning-Projects.git
    ```
 2. Navigate to the project folder:
    ```bash
